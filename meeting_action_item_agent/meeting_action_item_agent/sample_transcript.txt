@@ -1,0 +1,7 @@
+Priya: Thanks everyone. Let's go through the Q4 booking dashboard launch.
+Rahul: The data feed is stable now. I'll fix the null room-rate issue by Friday, it's urgent.
+Priya: Great. Anita needs to update the occupancy KPI definitions before next week.
+Anita: Sure, I'll also share the revised glossary with the ops team tomorrow.
+Kiran: We should review vendor pricing when possible.
+Priya: Please send the meeting notes to the leadership team today.
+Rahul: Nice work on the demo, by the way.
